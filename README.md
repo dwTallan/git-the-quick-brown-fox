@@ -1,4 +1,4 @@
-# Github Sample Playground App
+# GitHub Sample Playground App
 The quick brown fox jumps over the lazy dog
 
 ## Usage
